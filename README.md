@@ -170,4 +170,4 @@ It is built to reinforce how SQL transforms data step-by-step.
 * Theme switching
 
 ---
-# By Salman Murtaza and Zainab Fadhel
+# By Salman Murtaza & Zainab Fadhel 💻
