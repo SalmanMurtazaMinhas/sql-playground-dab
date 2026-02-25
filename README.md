@@ -1,4 +1,4 @@
-# [To use the deloyed site click here 🖱️](http://sql-playground.surge.sh/)
+# [To use the deployed site click here 🖱️](http://sql-playground.surge.sh/)
 
 # 🧠 SQL Playground
 
